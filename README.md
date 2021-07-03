@@ -26,3 +26,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - improve UI / add more icons/ thumbnails etc 
 - show related movies on movie page
 - error components
+- overall code improvements like hooks extraction, DRYs, pure components, types, directory structure etc.
