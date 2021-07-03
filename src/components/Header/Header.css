@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1em;
+}
+
+.header-title {
+    margin: 1em 0;
+    font-size: 3em;
+    font-weight: bold;
+    cursor: pointer;
+}

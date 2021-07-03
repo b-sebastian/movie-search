@@ -1,0 +1,13 @@
+.searchBar {
+    display: flex;
+    flex-direction: row;
+    justify-items: flex-start;
+}
+
+.searchBar .searchBar-submit {
+    margin: 0 0 22px 22px;
+}
+
+.searchBar .searchBar-input {
+    background-color: #fff;
+}
