@@ -21,5 +21,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - implement PWA
 - add pagination
 - add search by person
+- add option year search
 - loading spinners
 - improve UI / add more icons/ thumbnails etc 
+- show related movies on movie page
+- error components
